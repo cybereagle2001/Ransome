@@ -34,7 +34,7 @@ for root,dirs,files in os.walk('.'):
                 victim_file.append(root+'/'+file)
 ```
 
-encrypt(victim_file) is the function that I wrote in order to encrypt the stored files using the fernet algorithm for that we need to generate a key and then use it to encrypt the files. To do so we are going to retrieve the content of the files as binary encrypt it and overright the files. thi sprocess is done by this code :
+encrypt(victim_file) is the function that I wrote in order to encrypt the stored files using the fernet algorithm for that we need to generate a key and then use it to encrypt the files. To do so we are going to retrieve the content of the files as binary encrypt it and overright the files. this process is done by this code :
 
 ```
 def encrypt(victim_file):

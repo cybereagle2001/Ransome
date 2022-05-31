@@ -1,5 +1,7 @@
  <a target="_blank" href="Language" title="Language"><img src="https://img.shields.io/badge/language-python 3+-GREEN"></a>
 # Ransome
+![business](https://user-images.githubusercontent.com/63789665/171232030-09379826-65a6-4e62-a3d7-eb4547a9f3ce.png)
+
 Ransomeware is a type of malware that has the ablity to encrypt all the files on the device.
 This code is written is python 3 for educational purposes only used in the Spyro event workshop malware creation organised by Engineers Spark FST and Google developers Club ENIT.
 The code author is cybereagle2001 and the workshop was animated by the author.
